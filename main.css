@@ -1,0 +1,57 @@
+a.whitelink:link {
+    text-decoration: none;
+    color:#ffffff;
+}
+
+a.whitelink:visited {
+    text-decoration: none;
+    color:#ffffff;
+}
+
+a.whitelink:hover {
+    text-decoration: none;
+}
+
+a.whitelink:active {
+    text-decoration: none;
+}
+
+.frontpage {
+    background:#333333;
+    width: 100%;
+    height: 100%;
+
+  color:#ffffff;
+}
+
+.frontlist{
+  position:absolute;
+  left:50%;
+  top:38%;
+  transform:translate(-50%,0%);
+  font:"Tauri";
+  color:#ffffff;
+}
+
+.frontlisttitle{
+  font-size:3em;
+}
+
+.frontlistblank{
+  font-size:3em;
+  color:#333333;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.frontlisttext{
+  font-size:1.5em;
+}
+
+.frontlistlink{
+  font-size:1.618em;
+}
